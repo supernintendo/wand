@@ -18,7 +18,7 @@ Pass a file of any type to <code>wand</code> to start an HTTP server with one ro
 </table>
 
 ## Script Mode
-When `-s` is passed, the file will be run as a shell script and Wand will produce a JSON response containing the output of the shell script as `value`.
+When `-s` is passed, the file will be run as a shell script and Wand will produce a JSON response containing the output of the script as `value`.
 
 ## License
 [Apache License 2.0](LICENSE.md)
